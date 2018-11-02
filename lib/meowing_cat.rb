@@ -5,5 +5,4 @@ class Cat
   def meow #instance method,
     puts "meow!" # cat can say 'meow'
   end
-
 end
